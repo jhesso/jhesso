@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhesso
-- 👀 I’m interested in all kinds of development and technologies
-- 🌱 I’m currently learning C at Hive Helsinki
+- 👀 I’m interested in all kinds of technologies
+- 🌱 I’m currently learning Software development at Hive Helsinki
 - 📫 You can reach me at jhesso@student.hive.fi | [LinkedIn](https://www.linkedin.com/in/juho-hesso-a75993171/)
 
 <!---
