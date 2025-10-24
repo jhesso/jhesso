@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhesso
 - 👀 I’m interested in all kinds of technologies
 - 🌱 I’m currently learning Software development at Hive Helsinki
-- 📫 You can reach me at juho.hesso@proton.me | [LinkedIn](https://www.linkedin.com/in/juho-hesso-a75993171/)
+- 📫 You can reach me at juho.hesso@proton.me | [LinkedIn](https://www.linkedin.com/in/juho-hesso/)
 
 <!---
 jhesso/jhesso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
